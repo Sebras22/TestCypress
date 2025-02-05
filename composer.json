@@ -1,0 +1,17 @@
+{
+    "name": "sebra/test-cypress",
+    "autoload": {
+        "psr-4": {
+            "Sebra\\TestCypress\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sebras22",
+            "email": "sebastien.branly@efrei.net"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}
