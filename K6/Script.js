@@ -41,7 +41,7 @@ export function scenario_1() {
         );
     });
     sleep(0.2);
-    group("Interact with task manager", function () {
+    group("Interact page", function () {
         browser.visit(
             "https://crm.akov-formation.fr/datas/upload/fj/cv/r8/vsdkBRCemP.html",
             function () {
